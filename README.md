@@ -1,6 +1,7 @@
-Click Here, To Check this Live project Link : 
-https://raj-technical-react.netlify.app/
-Technology Used : React.js .
+<h2 align="center">
+  Raj-Technical-React-Website <br/>
+  <a href="https://raj-technical-react.netlify.app/" target="_blank"> Raj Technical </a>
+</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
