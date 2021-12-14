@@ -1,5 +1,5 @@
 Click Here, To Check this Live project Link : 
 
-https://raj-website-react011.netlify.app/
+https://raj-technical-react.netlify.app/
 
 Technology Used : React.js ..
